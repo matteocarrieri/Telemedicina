@@ -61,7 +61,7 @@ Supporto per il deploy su cloud (Render, Railway, AWS, ecc.)
 
 ---
 
-📋 Requisiti
+### 📋 Requisiti
 `txtfastapi`
 `uvicorn[standard]`
 `sqlalchemy`
