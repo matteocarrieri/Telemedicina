@@ -45,6 +45,7 @@ Salvataggio cronologico di temperatura, battito cardiaco e sintomi
 Rilevamento automatico di valori anomali con alert
 Visualizzazione chiara dell’andamento clinico tramite grafici
 
+---
 
 🔮 Possibili Sviluppi Futuri
 
@@ -58,6 +59,7 @@ Inserimento e visualizzazione di foto dell’animale
 Dashboard analitica con statistiche e trend a lungo termine
 Supporto per il deploy su cloud (Render, Railway, AWS, ecc.)
 
+---
 
 📋 Requisiti
 `txtfastapi`
@@ -68,6 +70,8 @@ Supporto per il deploy su cloud (Render, Railway, AWS, ecc.)
 `pandas`
 `matplotlib`
 `requests`
+
+---
 
 Author
 
