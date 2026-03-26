@@ -68,7 +68,15 @@ pandas
 matplotlib
 requests
 
-📄 Licenza
-Questo progetto è distribuito sotto licenza MIT.
+Author
 
+Matteo Carrieri
+MSc candidate — Biotecnologie Mediche, Veterinarie e Farmaceutiche (LM-9)
+University of Bologna · DIMEVET
+📧 matteo.carrieri@studio.unibo.it
+🔗 LinkedIn
 Sviluppato per migliorare la cura e il monitoraggio degli animali. 
+
+License
+
+This project is released under the MIT License — free to use, modify and distribute with attribution.
