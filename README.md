@@ -74,7 +74,7 @@ Matteo Carrieri
 MSc candidate — Biotecnologie Mediche, Veterinarie e Farmaceutiche (LM-9)
 University of Bologna · DIMEVET
 📧 matteo.carrieri@studio.unibo.it
-🔗 LinkedIn
+🔗 https://www.linkedin.com/in/matteo-carrieri-9951a0281/
 Sviluppato per migliorare la cura e il monitoraggio degli animali. 
 
 License
