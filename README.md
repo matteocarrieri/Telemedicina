@@ -33,54 +33,51 @@ L’applicazione permette ai veterinari e ai proprietari di registrare e monitor
 ├── requirements.txt       # Dipendenze Python
 ├── veterinary.db          # Database SQLite (creato automaticamente)
 └── README.md
+```
 
 
 ---
 
-⚡ Funzionalità del Sistema
-L’applicazione è progettata per semplificare il telemonitoraggio veterinario:
+## ⚡ Funzionalità del Sistema
+L'applicazione è progettata per semplificare il telemonitoraggio veterinario:
 
-Registrazione rapida degli animali e dei loro proprietari
-Salvataggio cronologico di temperatura, battito cardiaco e sintomi
-Rilevamento automatico di valori anomali con alert
-Visualizzazione chiara dell’andamento clinico tramite grafici
+* **Registrazione rapida** degli animali e dei proprietari.
+* **Salvataggio cronologico** di temperatura e battito cardiaco.
+* **Rilevamento automatico** di anomalie con alert.
+* **Visualizzazione chiara** tramite grafici.
 
 ---
 
-🔮 Possibili Sviluppi Futuri
+## 🔮 Possibili Sviluppi Futuri
 
-Integrazione con dispositivi IoT: Collegamento a sensori indossabili o collari smart per il rilevamento automatico e in tempo reale di temperatura,
-frequenza cardiaca e attività dell’animale
-Aggiunta di altri parametri vitali (frequenza respiratoria, saturazione ossigeno, peso)
-Notifiche automatiche via email, SMS o WhatsApp al proprietario in caso di valori critici
-Autenticazione multi-utente (per più veterinari o cliniche)
-Esportazione dei dati in formato PDF o CSV per referti medici
-Inserimento e visualizzazione di foto dell’animale
-Dashboard analitica con statistiche e trend a lungo termine
-Supporto per il deploy su cloud (Render, Railway, AWS, ecc.)
+Integrazione con dispositivi IoT: 
+* **Collegamento a sensori indossabili** o collari smart per il rilevamento automatico e in tempo reale di temperatura, frequenza cardiaca e attività dell’animale
+* **Aggiunta di altri parametri vitali** (frequenza respiratoria, saturazione ossigeno, peso, movimento)
+* **Notifiche automatiche** via email, SMS o WhatsApp al proprietario in caso di valori critici
+* **Autenticazione multi-utente** (per più veterinari o cliniche)
+* **Esportazione dei dati** in formato PDF o CSV per referti medici
+* **Inserimento e visualizzazione di foto dell’animale**
+* **Dashboard analitica** con statistiche e trend a lungo termine
+* **Gestione della mandria** durante i calori (inseminazione, monta)
+* **Supporto per il deploy su cloud** (Render, Railway, AWS, ecc.)
 
 ---
 
 ### 📋 Requisiti
-`txtfastapi`
-`uvicorn[standard]`
-`sqlalchemy`
-`pydantic`
-`streamlit`
-`pandas`
-`matplotlib`
-`requests`
+`fastapi`, `uvicorn[standard]`, `sqlalchemy`, `pydantic`, `streamlit`, `pandas`, `matplotlib`, `requests`
 
 ---
 
 Author
 
-Matteo Carrieri
-MSc candidate — Biotecnologie Mediche, Veterinarie e Farmaceutiche (LM-9)
+**Matteo Carrieri** MSc candidate — Biotecnologie Mediche, Veterinarie e Farmaceutiche (LM-9)
 University of Bologna · DIMEVET
+
 📧 [matteo.carrieri@studio.unibo.it](mailto:matteo.carrieri@studio.unibo.it)
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/matteo-carrieri-9951a0281/)
-Sviluppato per migliorare la cura e il monitoraggio degli animali. 
+
+Sviluppato per migliorare la cura e il monitoraggio degli animali. ❤️
 
 License
 
