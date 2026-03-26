@@ -26,7 +26,7 @@ L’applicazione permette ai veterinari e ai proprietari di registrare e monitor
 ---
 
 ## 📁 Struttura del Progetto
-veterinary-telemonitoring/
+``` Veterinary-telemonitoring/
 ├── app.py                 # Interfaccia utente Streamlit
 ├── main.py                # API Backend FastAPI
 ├── database.py            # Modelli e configurazione del database
@@ -48,7 +48,8 @@ Visualizzazione chiara dell’andamento clinico tramite grafici
 
 🔮 Possibili Sviluppi Futuri
 
-Integrazione con dispositivi IoT: Collegamento a sensori indossabili o collari smart per il rilevamento automatico e in tempo reale di temperatura, frequenza cardiaca e attività dell’animale
+Integrazione con dispositivi IoT: Collegamento a sensori indossabili o collari smart per il rilevamento automatico e in tempo reale di temperatura,
+frequenza cardiaca e attività dell’animale
 Aggiunta di altri parametri vitali (frequenza respiratoria, saturazione ossigeno, peso)
 Notifiche automatiche via email, SMS o WhatsApp al proprietario in caso di valori critici
 Autenticazione multi-utente (per più veterinari o cliniche)
@@ -59,22 +60,22 @@ Supporto per il deploy su cloud (Render, Railway, AWS, ecc.)
 
 
 📋 Requisiti
-txtfastapi
-uvicorn[standard]
-sqlalchemy
-pydantic
-streamlit
-pandas
-matplotlib
-requests
+`txtfastapi`
+`uvicorn[standard]`
+`sqlalchemy`
+`pydantic`
+`streamlit`
+`pandas`
+`matplotlib`
+`requests`
 
 Author
 
 Matteo Carrieri
 MSc candidate — Biotecnologie Mediche, Veterinarie e Farmaceutiche (LM-9)
 University of Bologna · DIMEVET
-📧 matteo.carrieri@studio.unibo.it
-🔗 https://www.linkedin.com/in/matteo-carrieri-9951a0281/
+📧 [matteo.carrieri@studio.unibo.it](mailto:matteo.carrieri@studio.unibo.it)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/matteo-carrieri-9951a0281/)
 Sviluppato per migliorare la cura e il monitoraggio degli animali. 
 
 License
